@@ -1,4 +1,4 @@
-# What-is-flash-bitcoin
+# What-is-flash-usdt
 In the ever-evolving world of cryptocurrency, new innovations are constantly emerging to enhance the trading experience. One such innovation is Flash USDT, a unique currency that has garnered attention for its speed and efficiency in transactions. In this blog, we will explore what Flash USDT is, how to purchase it, and the software that makes it all possible.
 
 
